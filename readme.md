@@ -1,0 +1,2 @@
+-Examplifies get and post methods
+-basic login/logout code using post and session start
